@@ -1,2 +1,2 @@
 # AgingMouse
-Custom analysis scripts for the Paired-tag project
+Custom analysis scripts for profiling the epigenetic characteristics of aging mice using Paired-tag technology.
