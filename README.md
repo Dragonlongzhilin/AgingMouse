@@ -1,5 +1,10 @@
-# AgingMouse
-Custom analysis scripts for profiling the epigenetic characteristics of aging mice using Paired-tag technology.
+# The Landscape of Epigenomic Remodeling across Multiple Organs during Mouse Aging
+
+To map aging-associated changes in cell type-specific histone modification landscapes across the body, we applied Paired-Tag to profile young and aged mice across 13 tissue types spanning major organ systems. Nuclei isolated from each tissue were used to profile six major histone modifications—H3K9me3, H3K27me3, H3K27ac, H3K4me1, H3K4me3 and H3K36me3—together with matched transcriptomic profiles, generating the most comprehensive atlas of histone modifications during aging to date.
+
+## custom_scripts
+
+Custom analysis scripts for analyzing the multiomic data generated in this study.
 
 ## Paired-Tag pipeline
 
