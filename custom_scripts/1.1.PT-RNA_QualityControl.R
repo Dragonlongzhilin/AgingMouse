@@ -10,7 +10,7 @@ source("~/Functions/QualityControlMerge.R")
 H3K27ac_H3K27me3 <- QualityControlSingle(rawData.path = "~/paired_seq_tag/data/merge/20241112-scPT-Natural-Aging-BAT-H3K27ac-H3K27me3", tissueName = "BAT", output.path = "~/AgingMouse/PairedTag/1.dataPreprocessing", doublet.rate = 0.1)
 
 #### H3K4me1-H3K4me3
-H3K4me1_H3K4me3 <- QualityControlSingle(rawData.path = "~/paired_seq_tag/data/merge/20241203-scPT-Natural-Aging-BAT-H3K4me1-H3K4me3", tissueName = "BAT", batch = "20241203", output.path = "~/AgingMouse/PairedTag/1.dataPreprocessing", doublet.rate = 0.1)
+H3K4me1_H3K4me3 <- QualityControlSingle(rawData.path = "~/paired_seq_tag/data/merge/20241203-scPT-Natural-Aging-BAT-H3K4me1-H3K4me3", tissueName = "BAT", output.path = "~/AgingMouse/PairedTag/1.dataPreprocessing", doublet.rate = 0.1)
 
 #### H3K9me3-H3K36me3
 H3K9me3_H3K36me3 <- QualityControlSingle(rawData.path = "~/paired_seq_tag/data/merge/20241125-scPT-Natural-Aging-BAT-H3K9me3-H3K36me3", tissueName = "BAT", output.path = "~/AgingMouse/PairedTag/1.dataPreprocessing", doublet.rate = 0.1)
